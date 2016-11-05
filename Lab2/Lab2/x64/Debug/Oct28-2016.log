@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\user\skydrive\cet-work\semester6\oct28-2016-master\oct28-2016\src\main.cpp(125): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\user\skydrive\cet-work\semester6\oct28-2016-master\oct28-2016\src\main.cpp(125): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Oct28-2016.vcxproj -> C:\Users\User\SkyDrive\CET-Work\Semester6\Oct28-2016-master\x64\Debug\Oct28-2016.exe
